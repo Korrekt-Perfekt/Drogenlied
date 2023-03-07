@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product id="341001" category="beer">
+    <name>Атомная прачечная</name>
+    <price>312</price>
+    <image>img/products/beer-2.jpg</image>
+    <sort>IPA</sort>
+    <brewery>Jaws Brewery</brewery>
+    <description>Хмель: Cascade, Centennial, Chinook, Mosaic&#13;
+Citra&#13;
+</description>
+  </product>
+  
+  <product id="341003" category="beer">
+    <name>Mary, Stay Home!</name>
+    <price>235</price>
+    <image>img/products/beer-3.jpg</image>
+  <description>Паприка, перец, соль, томат</description><model>models/beer-341003.glb</model><sort>Tomato Gose</sort><brewery>Konix Brewery</brewery></product>
+  <product id="341004" category="beer">
+    <name>Drei Heller</name>
+    <price>245</price>
+    <image>img/products/beer-4.jpg</image>
+  <sort>Pale Lager</sort><brewery>Dovod Brewery</brewery><description>Хмель: Magnum, Sladek</description></product>
+  <product id="341005" category="beer">
+    <name>Exotisches IPA</name>
+    <price>310</price>
+    <image>img/products/beer-5.jpg</image>
+  <sort>IPA</sort><brewery>Oettinger Brauerei</brewery><description>Немецкий и горький</description></product>
+
+  <product id="342001" category="cider">
+    <name>Banana Semi-Dry Ed.</name>
+    <price>345</price>
+    <image>img/products/cider-342001.jpg</image>
+  <sort>Cider with other fruits</sort><brewery>Antidot Ciders</brewery><description>Сидр с добавлением банана</description></product>
+  <product id="342002" category="cider">
+    <name>Sleeoing Sun</name>
+    <price>210</price>
+    <image>img/products/cider-342002.jpg</image>
+  <sort>Cider</sort><brewery>Coven</brewery><description>I wish for this night-time&#13;
+to last for a lifetime&#13;
+The darkness around me&#13;
+Shores of a solar sea&#13;
+Oh how I wish to go down with the sun&#13;
+Sleeping&#13;
+Weeping&#13;
+With you</description></product>
+  <product id="342003" category="cider">
+    <name>Бессмертие Идунн</name>
+    <price>215</price>
+    <image>img/products/cider-342003.jpg</image>
+  <sort>Cider</sort><brewery>Mjolnir</brewery><description>Традиционный яблочный сидр</description></product>
+  <product id="342004" category="cider">
+    <name>Ice</name>
+    <price>285</price>
+    <image>img/products/cider-342004.jpg</image>
+  <sort>Frozen apple cider</sort><brewery>Piton Ciders</brewery><description>Сидр из замороженных яблок </description></product>
+  <product id="342005" category="cider">
+    <name>Pomegranate </name>
+    <price>345</price>
+    <image>img/products/cider-342005.jpg</image>
+  <sort>Cider with other fruits </sort><brewery>Antidot Ciders</brewery><description>Сидр с добавлением граната</description></product>
+
+  <product id="343001" category="mead">
+    <name>Мята и малина</name>
+    <price>250</price>
+    <image>img/products/mead-343001.jpg</image>
+  <sort>Mead Melomel</sort><brewery>Степь и ветер</brewery><description>Ягодный мед с мятой</description></product>
+  <product id="343002" category="mead">
+    <name>Черника и ваниль</name>
+    <price>250</price>
+    <image>img/products/mead-343002.jpg</image>
+  <sort>Mead Melomel</sort><brewery>Степь и ветер</brewery><description>Ягодный мед с черникой и ванилью</description></product>
+  <product id="343003" category="mead">
+    <name>Грейпфрут</name>
+    <price>245</price>
+    <image>img/products/mead-343003.jpg</image>
+  <sort>Mead Melomel</sort><brewery>Степь и ветер</brewery><description>Мед с грейпфрутом</description></product>
+  <product id="343004" category="mead">
+    <name>Draft Mead</name>
+    <price>195</price>
+    <image>img/products/mead-343004.jpg</image>
+  <sort>Traditional Mead</sort><brewery>Степь и ветер</brewery><description>Традиционная медовуха</description></product>
+  <product id="343005" category="mead">
+    <name>Гибискус</name>
+    <price>310</price>
+    <image>img/products/mead-343005.png</image>
+  <sort>Mead Metheglin</sort><brewery>Степь и ветер</brewery><description>Медовуха с гибискусом</description></product>
+
+<product id="640732c309ed5" category="beer"><image>img/products/beer-640732c309ed5.jpg</image><sort>OPA</sort><brewery>Selfmade Brewery</brewery><description>Омериканский светлый эль от Selfmade и Родиона Лубенского</description><name>Голос Омерики</name><price>310</price></product></products>
